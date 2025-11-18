@@ -1,6 +1,6 @@
 # OPEN-SOURCE-EX-3
-## NAME : ahamed shine
-## REG NO : 212224040017
+## NAME : M.SREYAS
+## REG NO : 212224040323
 ## DEPT : CSE
 # STEPS INVOLVED:
 ### STEP 1 : sudo groupadd admin
